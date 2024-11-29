@@ -30,5 +30,5 @@ export const PROJECTS = [
 
 export const CONTACT = {
   linkedin: "https://www.linkedin.com/in/leandrocarvajal/",
-  email: "carvajal.leandro.04@gmail.com",
+  email: "carvajal.leandro.94@gmail.com",
 };
