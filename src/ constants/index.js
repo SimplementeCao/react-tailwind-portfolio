@@ -1,8 +1,6 @@
 export const HERO_CONTENT = `I am a passionate Fullstack developer with a strong background in building dynamic and scalable web applications. As a college student in programming with hands-on experience, I specialize in front-end technologies like React/Angular and back-end development with Java/Python, also Cairo for smart-contracts. My goal is to leverage my skills to create impactful solutions that improve user experiences and drive innovation.`;
 
-export const ABOUT_TEXT = `I am a dedicated and adaptive Fullstack developer with a passion for building intuitive and efficient web applications. As a third-year programming student, I have worked on projects integrating front-end frameworks such as Angular and React, back-end technologies such as Java and Python, and database management with SQL for relational systems. In addition, I have experience using Cairo for blockchain-based development, which demonstrates my ability to adapt to emerging technologies.
-
-My path to development stems from a deep curiosity for problem solving and a drive to create solutions that bring value to users. I love learning new tools, improving processes, and collaborating with others to tackle complex challenges. Outside of programming, I continually look for opportunities to grow professionally and stay ahead of the curve in a constantly evolving industry.`;
+export const ABOUT_TEXT = `I am a Fullstack developer with a passion for building efficient web applications. As a third-year programming student, I have experience with front-end frameworks like React and Angular, back-end technologies such as Java and Python, and relational databases with SQL. I also use Git/GitHub for version control and Cairo for blockchain development. Driven by curiosity and problem-solving, I’m always exploring new technologies and seeking opportunities to grow professionally.`;
 
 export const EXPERIENCES = [
   {
